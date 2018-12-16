@@ -1,0 +1,5 @@
+appserv\controller\ConverterFacade.class
+appserv\model\Currency_.class
+appserv\view\CurrencyManager.class
+appserv\integration\ConverterDAO.class
+appserv\model\Currency.class
